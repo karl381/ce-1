@@ -1,0 +1,157 @@
+CE-1™ FILM EMULATION
+END USER LICENSE AGREEMENT
+
+Last updated: October 24, 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY CLICKING "AGREE", INSTALLING OR USING
+CE-1 FILM EMULATION, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT
+AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+This End User License Agreement ("Agreement") is between you (an individual or
+the organization you represent, "you") and Tres Media Co ("Licensor", "we",
+"us"). It covers the CE-1 Film Emulation plug-in, its updates, presets,
+documentation and installer (together, the "Software").
+
+
+1. LICENSE GRANT
+
+The Software is licensed, not sold. Subject to this Agreement, we grant you a
+free of charge, non-exclusive, non-transferable, non-sublicensable, revocable
+license to install and use the Software on computers you own or control, for
+personal and commercial work.
+
+
+2. YOUR WORK IS YOURS
+
+You own the images, video and other content you create with the Software
+("Your Content"). You may use, sell and distribute Your Content for any
+purpose, including commercial projects, without credit or royalty to us. We
+claim no rights in Your Content.
+
+
+3. RESTRICTIONS
+
+You may not, and may not allow others to:
+
+  (a) sell, rent, lease, sublicense, or otherwise redistribute the Software,
+      or any part of it, whether on its own or bundled with other products,
+      except by sharing a link to our official download page;
+  (b) modify, translate, or create derivative works of the Software;
+  (c) decompile, disassemble, or reverse engineer the Software, except to the
+      extent applicable law expressly permits this despite this restriction;
+  (d) remove or alter any copyright, trademark, or other notices in the
+      Software;
+  (e) extract the Software's presets, film stocks, or look data to build or
+      train a competing product; or
+  (f) use the Software in violation of any applicable law.
+
+
+4. OWNERSHIP AND TRADEMARKS
+
+The Software, including its code, colour science, presets and documentation, is
+owned by Tres Media Co and protected by copyright and other laws. All rights
+not expressly granted to you are reserved.
+
+CE-1 and CE-1 Film Emulation are trademarks of Tres Media Co. This Agreement
+gives you no right to use our trademarks, logos or names.
+
+Camera, film and software names mentioned in the Software or documentation
+(including DaVinci Resolve, Sony, S-Log3, ARRI, LogC, Canon, RED, Panasonic,
+LUMIX, Nikon, Leica, Fujifilm and ACES) are trademarks of their respective
+owners and are used only to describe compatibility. The Software is not
+affiliated with, endorsed by, or sponsored by any of them. The Software's film
+stocks are original designs and do not reproduce any manufacturer's film.
+
+
+5. THIRD-PARTY COMPONENTS
+
+The Software includes open-source components licensed under their own terms,
+which are listed in the "Third-Party Notices" file that comes with the
+Software. Those terms govern those components.
+
+
+6. PRIVACY
+
+The Software runs entirely on your computer. It does not collect, store or
+transmit any personal data, usage data or Your Content, and it makes no
+network connections.
+
+
+7. UPDATES AND SUPPORT
+
+We may, but are not required to, provide updates, fixes or support. Updates
+are covered by this Agreement unless they come with their own terms. We may
+change or discontinue the Software at any time.
+
+
+8. TERMINATION
+
+This Agreement remains in effect until terminated. It ends automatically if you
+fail to comply with any of its terms. You may end it at any time by
+uninstalling and deleting the Software. On termination you must stop using and
+delete all copies of the Software. Sections 2, 4, 9, 10, 11 and 12 survive
+termination. Your Content remains yours after termination.
+
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED FREE OF CHARGE, "AS IS" AND "AS AVAILABLE", WITHOUT
+WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. WE DO NOT
+WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR COMPATIBLE
+WITH ANY PARTICULAR VERSION OF DAVINCI RESOLVE, MACOS, OR HARDWARE.
+
+YOU ARE RESPONSIBLE FOR CHECKING YOUR RESULTS AND KEEPING BACKUPS OF YOUR
+PROJECTS AND MEDIA.
+
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL TRES MEDIA CO OR ITS
+OWNERS, EMPLOYEES OR CONTRACTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS,
+REVENUE, DATA, FOOTAGE, PROJECTS, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR
+RELATED TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CLAIMS WILL NOT EXCEED FIFTY US
+DOLLARS (US$50).
+
+Some jurisdictions do not allow certain warranty exclusions or liability
+limits, so some of the above may not apply to you. In that case, our
+liability is limited to the smallest amount the law allows.
+
+
+11. EXPORT
+
+You agree to comply with all applicable export and sanctions laws, and not to
+download or use the Software where prohibited.
+
+
+12. GENERAL
+
+Governing law. This Agreement is governed by the laws of the State of
+California, USA, without regard to its conflict-of-law rules. The courts
+located in California will have exclusive jurisdiction over any dispute,
+except where the law of your country of residence requires otherwise.
+
+Entire agreement. This Agreement is the entire agreement between you and us
+about the Software and replaces any earlier understandings.
+
+Severability. If any part of this Agreement is found unenforceable, it will be
+enforced to the maximum extent possible and the rest remains in effect.
+
+No waiver. Our failure to enforce any part of this Agreement is not a waiver
+of our right to enforce it later.
+
+Assignment. You may not transfer this Agreement. We may assign it, for example
+as part of a sale or reorganization of our business.
+
+Changes. We may update this Agreement for future versions of the Software. The
+version that comes with a release applies to that release.
+
+
+13. CONTACT
+
+Questions about this Agreement:
+Tres Media Co
+karl@tresmediaco.com
