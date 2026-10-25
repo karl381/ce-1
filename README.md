@@ -4,8 +4,8 @@
 
 A film emulation OpenFX plug-in for **DaVinci Resolve** on Mac: negative and print stocks,
 halation that finds the light, gauge-accurate grain, film softness and gate weave, built
-natively around your camera's own log format. Free with
-[Cine White Balance](https://tresmediaco.com).
+natively around your camera's own log format. $50 for Mac, with a free trial:
+[tresmediaco.com](https://tresmediaco.com).
 
 ![Camera log on the left, CE-1 on the right](images/ce1-wipe.jpg)
 
