@@ -1,16 +1,17 @@
 CE-1™ FILM EMULATION
 END USER LICENSE AGREEMENT
 
-Last updated: October 26, 2026
+Last updated: October 27, 2026
 
 PLEASE READ THIS AGREEMENT CAREFULLY. BY CLICKING "AGREE", INSTALLING OR USING
 CE-1 FILM EMULATION, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT
 AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
 
 This End User License Agreement ("Agreement") is between you (an individual or
-the organization you represent, "you") and Tres Media Co ("Licensor", "we",
-"us"). It covers the CE-1 Film Emulation plug-in, its updates, presets,
-documentation and installers (together, the "Software").
+the organization you represent, "you") and Karl Henry Weinreich III, doing
+business as Tres Media Co ("Licensor", "we", "us"). It covers the CE-1 Film
+Emulation plug-in, its updates, presets, documentation and installers
+(together, the "Software").
 
 
 1. LICENSE GRANT
@@ -20,13 +21,12 @@ The Software is licensed, not sold.
 Trial. You may install the plug-in without a license key to evaluate it. In
 trial mode its output carries a "CE-1 TRIAL" watermark.
 
-Paid license. When you buy a license (or receive one from us, for example with a discount code), we grant you a non-exclusive, non-transferable,
+Paid license. When you buy a license (or receive one from us, for example with
+a discount code), we grant you a non-exclusive, non-transferable,
 non-sublicensable license to use the Software you bought, for personal and
-commercial work, for as long as you comply with this Agreement:
-
-on up to two (2) Macs that you own or control at a time, activated with your
-personal license key. You may deactivate it on one Mac and activate it on
-another.
+commercial work, for as long as you comply with this Agreement, on up to two
+(2) computers that you own or control at a time, activated with your personal
+license key. You may deactivate it on one computer and activate it on another.
 
 A license is for one person or one organization's single seat. Your license
 key is personal: do not share, publish or resell it.
@@ -54,19 +54,23 @@ You may not, and may not allow others to:
   (d) remove or alter any copyright, trademark, or other notices in the
       Software, or remove, hide or work around the trial watermark or the
       license activation;
-  (e) extract the Software's presets, film stocks, or look data to build or
-      train a competing product; or
+  (e) extract, rip, or capture the Software's compiled LUTs, internal tables,
+      presets, or colour-transform outputs (for example, by running HaldCLUTs
+      or test charts through the Software) to build, calibrate, or train a
+      competing product or commercial LUT pack; or
   (f) use the Software in violation of any applicable law.
 
 
 4. OWNERSHIP AND TRADEMARKS
 
 The Software, including its code, colour science, presets and documentation, is
-owned by Tres Media Co and protected by copyright and other laws. All rights
+owned by Karl Henry Weinreich III, doing business as Tres Media Co, and
+protected by copyright and other laws. All rights
 not expressly granted to you are reserved.
 
-CE-1 and CE-1 Film Emulation are trademarks of Tres Media Co. This Agreement
-gives you no right to use our trademarks, logos or names.
+CE-1 and CE-1 Film Emulation are trademarks of Karl Henry Weinreich III, doing
+business as Tres Media Co. This Agreement gives you no right to use our
+trademarks, logos or names.
 
 Camera, film and software names mentioned in the Software or documentation
 (including DaVinci Resolve, Sony, S-Log3, ARRI, LogC, Canon, RED, Panasonic,
@@ -122,12 +126,13 @@ termination. Your Content remains yours after termination.
 
 9. NO WARRANTY
 
-EXCEPT FOR THE REFUND IN SECTION 6, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
-WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL
-WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. WE DO NOT
-WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR COMPATIBLE
-WITH ANY PARTICULAR VERSION OF DAVINCI RESOLVE, MACOS, OR HARDWARE.
+EXCEPT FOR THE REFUND IN SECTION 6, THE SOFTWARE IS PROVIDED "AS IS" AND "AS
+AVAILABLE", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, OR COMPATIBLE WITH ANY PARTICULAR HOST APPLICATION, OPERATING
+SYSTEM, OR HARDWARE.
 
 YOU ARE RESPONSIBLE FOR CHECKING YOUR RESULTS AND KEEPING BACKUPS OF YOUR
 PROJECTS AND MEDIA.
@@ -135,7 +140,7 @@ PROJECTS AND MEDIA.
 
 10. LIMITATION OF LIABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL TRES MEDIA CO OR ITS
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE LICENSOR OR ITS
 OWNERS, EMPLOYEES OR CONTRACTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
 SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS,
 REVENUE, DATA, FOOTAGE, PROJECTS, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR
@@ -146,6 +151,11 @@ OF THE AMOUNT YOU PAID FOR THE SOFTWARE OR FIFTY US DOLLARS (US$50).
 Some jurisdictions do not allow certain warranty exclusions or liability
 limits, so some of the above may not apply to you. In that case, our
 liability is limited to the smallest amount the law allows.
+
+Nothing in this Agreement excludes or limits our liability for death or
+personal injury caused by negligence, fraud or fraudulent misrepresentation,
+willful misconduct, or any other liability that cannot be excluded or limited
+under applicable law.
 
 
 11. EXPORT
@@ -180,5 +190,5 @@ version that comes with a release applies to that release.
 13. CONTACT
 
 Questions about this Agreement:
-Tres Media Co
+Karl Henry Weinreich III, doing business as Tres Media Co
 karl@tresmediaco.com
