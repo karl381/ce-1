@@ -1,7 +1,7 @@
 CE-1™ FILM EMULATION
 END USER LICENSE AGREEMENT
 
-Last updated: October 24, 2026
+Last updated: October 26, 2026
 
 PLEASE READ THIS AGREEMENT CAREFULLY. BY CLICKING "AGREE", INSTALLING OR USING
 CE-1 FILM EMULATION, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT
@@ -10,15 +10,26 @@ AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
 This End User License Agreement ("Agreement") is between you (an individual or
 the organization you represent, "you") and Tres Media Co ("Licensor", "we",
 "us"). It covers the CE-1 Film Emulation plug-in, its updates, presets,
-documentation and installer (together, the "Software").
+documentation and installers (together, the "Software").
 
 
 1. LICENSE GRANT
 
-The Software is licensed, not sold. Subject to this Agreement, we grant you a
-free of charge, non-exclusive, non-transferable, non-sublicensable, revocable
-license to install and use the Software on computers you own or control, for
-personal and commercial work.
+The Software is licensed, not sold.
+
+Trial. You may install the plug-in without a license key to evaluate it. In
+trial mode its output carries a "CE-1 TRIAL" watermark.
+
+Paid license. When you buy a license (or receive one from us, for example with a discount code), we grant you a non-exclusive, non-transferable,
+non-sublicensable license to use the Software you bought, for personal and
+commercial work, for as long as you comply with this Agreement:
+
+on up to two (2) Macs that you own or control at a time, activated with your
+personal license key. You may deactivate it on one Mac and activate it on
+another.
+
+A license is for one person or one organization's single seat. Your license
+key is personal: do not share, publish or resell it.
 
 
 2. YOUR WORK IS YOURS
@@ -33,14 +44,16 @@ claim no rights in Your Content.
 
 You may not, and may not allow others to:
 
-  (a) sell, rent, lease, sublicense, or otherwise redistribute the Software,
-      or any part of it, whether on its own or bundled with other products,
-      except by sharing a link to our official download page;
+  (a) sell, rent, lease, sublicense, or otherwise redistribute the Software
+      or your license key, or any part of them, whether on their
+      own or bundled with other products, except by sharing a link to our
+      official download page;
   (b) modify, translate, or create derivative works of the Software;
   (c) decompile, disassemble, or reverse engineer the Software, except to the
       extent applicable law expressly permits this despite this restriction;
   (d) remove or alter any copyright, trademark, or other notices in the
-      Software;
+      Software, or remove, hide or work around the trial watermark or the
+      license activation;
   (e) extract the Software's presets, film stocks, or look data to build or
       train a competing product; or
   (f) use the Software in violation of any applicable law.
@@ -59,8 +72,12 @@ Camera, film and software names mentioned in the Software or documentation
 (including DaVinci Resolve, Sony, S-Log3, ARRI, LogC, Canon, RED, Panasonic,
 LUMIX, Nikon, Leica, Fujifilm and ACES) are trademarks of their respective
 owners and are used only to describe compatibility. The Software is not
-affiliated with, endorsed by, or sponsored by any of them. The Software's film
-stocks are original designs and do not reproduce any manufacturer's film.
+affiliated with, endorsed by, or sponsored by any of them.
+
+The Classic engine's film stocks are our original designs. The Spectral
+engine models film stocks from technical data their manufacturers have
+published; its stock names are our own, and the Software is not affiliated
+with, endorsed by, or sponsored by any film manufacturer.
 
 
 5. THIRD-PARTY COMPONENTS
@@ -70,11 +87,20 @@ which are listed in the "Third-Party Notices" file that comes with the
 Software. Those terms govern those components.
 
 
-6. PRIVACY
+6. PURCHASES, REFUNDS AND PRIVACY
 
-The Software runs entirely on your computer. It does not collect, store or
-transmit any personal data, usage data or Your Content, and it makes no
-network connections.
+Purchases are processed by our reseller, Lemon Squeezy, which acts as the
+merchant of record, handles payment and sales tax, and processes your purchase
+details under its own privacy policy. If CE-1 doesn't work for you, you may
+request a full refund within 14 days of purchase; a refunded license stops
+working.
+
+The Software processes your images entirely on your computer and never
+transmits Your Content. The plug-in connects to the internet only to manage
+its license: when you click Activate or Deactivate, and about once a month
+while a license is active, it sends your license key and a random activation
+name to Lemon Squeezy's license service to confirm the license is valid. It
+sends nothing else.
 
 
 7. UPDATES AND SUPPORT
@@ -87,7 +113,8 @@ change or discontinue the Software at any time.
 8. TERMINATION
 
 This Agreement remains in effect until terminated. It ends automatically if you
-fail to comply with any of its terms. You may end it at any time by
+fail to comply with any of its terms, or if your purchase is refunded or
+charged back. You may end it at any time by
 uninstalling and deleting the Software. On termination you must stop using and
 delete all copies of the Software. Sections 2, 4, 9, 10, 11 and 12 survive
 termination. Your Content remains yours after termination.
@@ -95,7 +122,7 @@ termination. Your Content remains yours after termination.
 
 9. NO WARRANTY
 
-THE SOFTWARE IS PROVIDED FREE OF CHARGE, "AS IS" AND "AS AVAILABLE", WITHOUT
+EXCEPT FOR THE REFUND IN SECTION 6, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
 WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL
 WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. WE DO NOT
@@ -113,8 +140,8 @@ OWNERS, EMPLOYEES OR CONTRACTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
 SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS,
 REVENUE, DATA, FOOTAGE, PROJECTS, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR
 RELATED TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY
-OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CLAIMS WILL NOT EXCEED FIFTY US
-DOLLARS (US$50).
+OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CLAIMS WILL NOT EXCEED THE GREATER
+OF THE AMOUNT YOU PAID FOR THE SOFTWARE OR FIFTY US DOLLARS (US$50).
 
 Some jurisdictions do not allow certain warranty exclusions or liability
 limits, so some of the above may not apply to you. In that case, our
