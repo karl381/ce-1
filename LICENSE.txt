@@ -93,17 +93,16 @@ Software. Those terms govern those components.
 
 6. PURCHASES, REFUNDS AND PRIVACY
 
-Purchases are processed by our reseller, Lemon Squeezy, which acts as the
-merchant of record, handles payment and sales tax, and processes your purchase
-details under its own privacy policy. If CE-1 doesn't work for you, you may
-request a full refund within 14 days of purchase; a refunded license stops
-working.
+Purchases are processed by our reseller, which acts as the merchant of record,
+handles payment and sales tax, and processes your purchase details under its
+own privacy policy. If CE-1 doesn't work for you, you may request a full
+refund within 14 days of purchase; a refunded license stops working.
 
 The Software processes your images entirely on your computer and never
 transmits Your Content. The plug-in connects to the internet only to manage
 its license: when you click Activate or Deactivate, and about once a month
 while a license is active, it sends your license key and a random activation
-name to Lemon Squeezy's license service to confirm the license is valid. It
+name to our reseller's license service to confirm the license is valid. It
 sends nothing else.
 
 
